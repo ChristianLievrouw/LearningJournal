@@ -1,9 +1,9 @@
-## Growth Mindset
-  Growth mindset to me is being open to failing and then learning from your failures. Always keep your head up and learn from doing wrong and be open to help and others opinions.
-## Three reminders to stay in a growth mindset
+***Growth Mindset***
+  Growth mindset to me is being open to *failing* and then **learning** from your failures. Always keep your head up and learn from doing wrong and be open to help and others opinions.
+### Three reminders to stay in a growth mindset
   1. Each failure is a oppurtunity to learn.
-  2. Be open to others help and opinions
-  3. 
+  2. Be open to others help and opinions.
+  3. Never give up when you cant figure somthing out.
 
 ## Welcome to GitHub Pages
 
