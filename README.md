@@ -1,6 +1,7 @@
 Christian Lievrouw  
   - Charles City, IA
-    - 26
+    - 26 years old
+
 I was born in Mason City, IA and grew up in Charles City, IA. I graduated from Charles City High School in 2011.
 
 
