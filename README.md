@@ -1,3 +1,9 @@
+Christian Lievrouw  
+  - Charles City, IA
+    - 26
+I was born in Mason City, IA and grew up in Charles City, IA. I graduated from Charles City High School in 2011.
+
+
 ***Growth Mindset***
 
 Growth mindset to me is being open to *failing* and then **learning** from your failures. Always keep your head up and learn from doing wrong and be open to help and others opinions.
