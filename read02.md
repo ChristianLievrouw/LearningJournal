@@ -13,10 +13,10 @@ In the end when looking for what text editor you need it all comes down to your 
   6. cd (change directories)
   7. ls -a (list hidden files)
 ## Paths
-/ (absolute path)
-When there is no slash that is a (relative path)
-~ (shorcut to home directory)
-. (reference to currant directory)
-.. (reference to parent directory)
+  1. / (absolute path)
+  2. When there is no slash that is a (relative path)
+  3. ~ (shorcut to home directory)
+  4. . (reference to currant directory)
+  5. .. (reference to parent directory)
 ## Shortcut
-**TAB** (quick way to auto fill)
+  1. **TAB** (quick way to auto fill)
