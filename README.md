@@ -1,3 +1,10 @@
+## Growth Mindset
+  Growth mindset to me is being open to failing and then learning from your failures. Always keep your head up and learn from doing wrong and be open to help and others opinions.
+## Three reminders to stay in a growth mindset
+  1. Each failure is a oppurtunity to learn.
+  2. Be open to others help and opinions
+  3. 
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/ChristianLievrouw/LearningJournal/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
