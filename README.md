@@ -1,7 +1,7 @@
 Christian Lievrouw  
   - Charles City, IA
     - 26 Years old
-      - [Github profile](https://christianlievrouw.github.io/LearningJournal/)
+      - [Github profile]()
 
   I was born in Mason City, IA and grew up in Charles City, IA. I graduated from Charles City High School in 2011. I currently  work as a beer delievery driver for Kabrick Dist. My goal for Deltav is to have the growth mindset to go from just a delivery driver to a software developer with a growing and successful career.
 
