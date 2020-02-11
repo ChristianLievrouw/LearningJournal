@@ -16,4 +16,5 @@
 
 # Class assignments
 [Read01 2/10/2020](docs/read01.md)
+
 [Read02 2/10/2020](docs/read02.md)
