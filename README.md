@@ -15,4 +15,4 @@
   3. Never give up when obstacles present themselves.
 
 # Class assignments
-[Read01](read01.md)
+[Read01](docs/read01.md)
