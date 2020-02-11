@@ -17,8 +17,8 @@
 ## Class assignments
 [Read01 2/10/2020](read01.md)
 
-[Read02 2/10/2020](docs/read02.md)
+[Read02 2/10/2020](read02.md)
 
-[Read03 2/11/2020](docs/read03.md)
+[Read03 2/11/2020](read03.md)
 
-[Read04](docs/read04.md)
+[Read04](read04.md)
