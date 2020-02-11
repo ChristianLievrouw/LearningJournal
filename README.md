@@ -14,7 +14,7 @@
   2. Be open to help from others and their ideas.
   3. Never give up when obstacles present themselves.
 
-# Class assignments
+## Class assignments
 [Read01 2/10/2020](docs/read01.md)
 
 [Read02 2/10/2020](docs/read02.md)
