@@ -22,3 +22,11 @@
 [Read03 2/11/2020](read03.md)
 
 [Read04 2/11/2020](read04.md)
+
+[Read 05 2/12/2020](read05.md)
+
+[Read06a 2/12/2020](read06a.md)
+
+[Read06b 2/12/2020](read06b.md)
+
+[Read07 2/13/2020](read07.md)
